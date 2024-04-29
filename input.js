@@ -13,7 +13,7 @@ export default class InputHandler {
           this.lastKey = "PRESS down";
           break;
         case "ArrowUp":
-          this.lastKey = "PRESS up ";
+          this.lastKey = "PRESS up";
           break;
       }
     });
